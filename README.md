@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently studying in University of Darussalam Gontor<br>👯 I’m looking to collaborate on my Coding Projects<br>🤝 I’m looking for help with anyone in Cyber Security fields<br>🌱 I’m currently learning Cyber Security automation<br>💬 Ask me about Writing Codes in C++ or Python
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=57AE6D&center=true&vCenter=true&width=435&lines=I'm+a+Python+Programmer;I'm+also+a+C%2B%2B+Programmer)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mowland__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-faridh-maulana-a3532a287) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mowland-codes) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MowlandCodes) 
