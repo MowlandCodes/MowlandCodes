@@ -9,9 +9,9 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Django](https://img.shields.io/badge/Django%20-%20Django?style=flat&logo=django&logoColor=white&labelColor=%2320891a&color=%23155a11)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MowlandCodes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MowlandCodes&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MowlandCodes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![MowlandCodes's Stats](https://github-readme-stats.vercel.app/api?username=MowlandCodes&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![MowlandCodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MowlandCodes&theme=dracula&hide_border=false)<br/>
+![MowlandCodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MowlandCodes&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MowlandCodes&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
