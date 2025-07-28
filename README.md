@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/MowlandCodes/stats)
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/MowlandCodes/contributions)<br/><br/>
-![MowlandCodes's Stats](https://github-readme-stats.vercel.app/api?username=MowlandCodes&theme=transparent&show_icons=true&hide_border=false&count_private=true)<br/>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MowlandCodes?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
 ![MowlandCodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MowlandCodes&theme=transparent&hide_border=false)<br/>
 ![MowlandCodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MowlandCodes&theme=transparent&show_icons=true&hide_border=false&layout=compact)
 
