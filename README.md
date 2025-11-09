@@ -47,8 +47,6 @@
 ### ▋`>_ ANALYZING: arsenal.dat`
 
 <p align="left">
-  <strong>[+] Known Protocols & Frameworks (Tech Stack):</strong>
-  <br>
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
@@ -80,8 +78,6 @@
 ### ▋`>_ MONITORING: system.stats (Live)`
 
 <p align="center">
-  <strong>[+] GitHub Telemetry Data:</strong>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mowlandcodes&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mowlandcodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   <br>
@@ -91,10 +87,6 @@
 ---
 
 ### ▋`>_ QUERYING: showcased_exploits.db (Projects)`
-
-<p align="center">
-  <strong>[+] Top Deployed Payloads:</strong>
-</p>
 
 <table width="100%">
   <tr>
@@ -147,9 +139,6 @@
 ### ▋`>_ ESTABLISH: contact_protocol`
 
 <p align="center">
-  <strong>[+] Available Endpoints:</strong>
-  <br>
-  <br>
   <a href="https://www.linkedin.com/in/m-faridh-maulana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -158,9 +147,6 @@
   </a>
   <a href="mailto:me@mowlandcodes.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discord.com/users/1075105043012923482" target="_blank">
-    <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1075105043012923482" target="_blank">
     <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
