@@ -77,6 +77,7 @@
 ### ▋`>_ MONITORING: system.stats (Live)`
 
 <p align="center">
+    <img width="96%" src="https://github-readme-stats.vercel.app/api?username=MowlandCodes&show_icons=true" alt="MowlandCodes Github Stats"/>
     <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=mowlandcodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
