@@ -74,7 +74,9 @@
 ### ▋`>_ MONITORING: system.stats (Live)`
 
 <p align="center">
-    <img width="96%" src="https://github-readme-stats.vercel.app/api?username=MowlandCodes&show_icons=true" alt="MowlandCodes Github Stats"/>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&fontFamily=JetBrains%20Mono&preferLogin=false">
+        <img alt="mowlandcodes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mowlandcodes?cardType=level&theme=dracula&fontFamily=JetBrains%20Mono&preferLogin=false" />
+    </a>
     <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=mowlandcodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
