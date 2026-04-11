@@ -1,12 +1,12 @@
-<div align="center">
-
-<pre style="text-align: left">
+<pre style="text-align: center">
 ╔══╦══╗            ╖              ╓ ╔═══╕         ╓
 ║  ║  ║            ║              ║ ║             ║
 ║  ║  ║ ╔══╗ ╖   ╓ ║ ╒══╗ ╔══╗ ╔══╣ ║     ╔══╗ ╔══╣ ╔══╗ ╔══╕
 ║  ║  ║ ║  ║ ║ ╓ ║ ║ ╔══╣ ║  ║ ║  ║ ║     ║  ║ ║  ║ ╠══╝ ╚══╗
 ╜  ╙  ╙ ╚══╝ ╚═╩═╝ ╙ ╚══╝ ╜  ╙ ╚══╝ ╚═══╛ ╚══╝ ╚══╝ ╚══╛ ╘══╝
 </pre>
+
+<div align="center">
 
 ### `[ CONNECTION ESTABLISHED ]`
 
