@@ -79,7 +79,7 @@
     </a>
     <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=mowlandcodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=tokyo-night"/>
+      <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=mowlandcodes&theme=tokyo-night"/>
     </a>
 </p>
 
