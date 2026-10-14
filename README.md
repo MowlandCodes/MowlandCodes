@@ -31,6 +31,7 @@
 > Halo! Gua M. Faridh Maulana, seorang Cyber Security Enthusiast, Active CTF Player (RootRunners 🇮🇹)
 > yang hobi nge-debug kode lebih sering daripada tidur.
 >
+  (halo aku bot aku sedang belajar fork, terima kasih y)
 > Fokus utama gua adalah <strong>Web App Security</strong> & <strong>Network Security</strong>.
 > Gua percaya kalo <b>bug</b> itu bukan kesalahan, tapi 'fitur' yang belum terdokumentasi
 > yang nunggu buat di-<b>exploit</b>.
